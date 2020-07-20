@@ -62,14 +62,14 @@ You can use the web console to perform many key tasks, such as loading data, wor
 
 #### Standard High Availability plan
 
-- Base instances start at 2 vCPU x 8 GB RAM x 20 GB storage on shared compute slices
+- Base instances start at 8 GB RAM x 20 GB storage on shared compute slices
 - Runs the latest release of Db2, version 11.5
 - Three high-availability nodes spanning multiple availability zones
 - 100 GB of free backup storage for up to 14 days of backups
 - Self-service managed backup with point-in-time restore
 
 
-Coming soon: The Enterprise non-HA plan and Standard non-HA) plans.
+Coming soon: The Enterprise non-HA plan and Standard non-HA plans.
 
 ### Legacy plans
 {: #ab_legacy}
